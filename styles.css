@@ -1,5 +1,11 @@
 /*  your css code here. If applicable */
- nav {
+
+ body {
+            margin: 0;
+            padding: 0;
+        }
+
+nav {
             background-color: #D3D3D3;
             padding: 10px;
         }
